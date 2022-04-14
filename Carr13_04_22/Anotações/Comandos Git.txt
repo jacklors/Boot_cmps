@@ -1,0 +1,14 @@
+git init = Iniciar o git dentro de um repositório.
+
+
+configuração inicial 
+
+
+git config --global user.email"" 
+
+git config --global user.name
+
+
+git add = Adicionar um arquivo para staged
+
+git status = Verificação de alteração de status do repositório.

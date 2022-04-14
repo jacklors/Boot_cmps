@@ -1,0 +1,62 @@
+Windows
+
+dir = listar todos os diretórios da pasta que estamos situado.
+
+cd / = Navegar para uma pasta específica no sistema.
+cd .. = Retroceder para uma pasta específica no sistema.
+cd (uma letra + tab) = Ele reconhece por leitura uma pasta com a letra inicial digitada. 
+cls = limpar terminal.
+
+mkdir = Criar um pasta (se der tudo certo terminal não fala nada).
+
+echo = printa de volta uma frase digitada no terminal.
+> = Redirecionador de fluxo.
+
+
+Criando um arquivo
+
+echo hello > hello.txt = Os argumentos passados para o comando echo são salvos 
+como conteúdo do arquivo recém criado utilizando o operador de redirecionamento >.
+
+
+Deletando um arquivo
+
+del (pasta) = Deletando arquivos dentro de uma pasta.
+
+Deletando um diretório
+
+rmdir (nome da pasta) /S /Q
+
+
+
+
+
+
+Linux
+
+ls = listar todos os diretórios da pasta que estamos situado.
+ls -a = lista todos os arquivos ocultos.
+
+cd (nome da pasta)/ = Navegar para uma pasta específica no sistema.
+cd .. = Retroceder para uma pasta específica no sistema
+clear ou Ctrl + L = limpar terminal.
+
+mkdir = Criar um pasta (se der tudo certo terminal não fala nada).
+
+Criando um arquivo
+
+echo hello > hello.txt = Os argumentos passados para o comando echo são salvos 
+como conteúdo do arquivo recém criado utilizando o operador de redirecionamento >.
+
+
+Deletando um diretório
+
+rm -rf (nome da pasta)/ = Vai deletar a pasta e com -r vai deletar as outras internas se tiver,
+-f remove a necessidade de confirmação para deletar.
+
+
+
+
+
+
+
