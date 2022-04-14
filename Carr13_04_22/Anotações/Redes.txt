@@ -1,0 +1,57 @@
+Redes de Computadores = Uma rede de computadores nada mais é do que um conjunto de sistemas
+de computadores e outros dispositivos conectados entre si por meio de um sistema de comunicação.
+As redes de computadores permitem a troca de dados entre computadores e dispositivos de hardware e software.
+
+Backbone = Espinha dorsal, No contexto de redes de computadores, o backbone designa o esquema de 
+ligações centrais de um sistema de redes mais amplo, tipicamente de elevado desempenho
+e com dimensões continentais.
+
+Provedor de acesso = Um fornecedor de acesso à internet ou provedor de serviço internet é qualquer entidade que oferece serviços de acesso, 
+participação ou utilização da internet.
+
+DNS = O DNS (Domain Name System – Sistema de nome de domínio) converte nomes de domínio legíveis por humanos
+ (por exemplo, www.amazon.com) em endereços IP legíveis por máquina (por exemplo, 192.0.2.44).
+
+127.0.0.1 = Local Host.
+
+
+TCP = Transmission Control Protocol - Protocolo de Controle de Transmissão.
+
+IP = Protocolo de Internet.
+
+Camadas para transmissão de dados 
+
+1. Física (ex: placa de rede)
+2. Rede (ex: IP)
+3. Transporte (ex: TCP,UDP)
+4. Aplicação (ex: FTP, SMTP, HTTP
+
+
+UDP        VS        TCP
+
+Rápido            Voltado à conexão 
+Não confiável     Handshake
+Livestream        Integridade, ordem dos dados
+                  Aplicativo de mensagem de texto  
+Portas
+
+FTP:20
+SSH:22
+SMTP:25
+DNS:53
+HTTP:80
+HTTPS:443
+
+Modem = Modulator-demodulator
+
+Hardware que converte dados em um formato que possa ser transmitido de um computador
+para outro e lido por outro.
+
+
+Roteador = Distribui internet para um ou mais disposiivos de uma rede.
+
+Switch = Criado para ser inteligente, distribui dados de uma rede apenas
+para o computador correto.
+
+
+   

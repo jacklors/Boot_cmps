@@ -1,0 +1,24 @@
+Existem dois tipos:
+
+Estático
+
+É um físico onde são armazenados arquivos, software e/ou banco de dados.
+
+
+Dinâmico
+
+Se refere aos softwares que estão presents no servidor físico.
+
+database
+
+file server
+
+application server
+
+
+Web-Service 
+
+Interface disponível para fazer requisições e consultas em bancos de dados inacessíveis
+(Governo, Correios).
+
+https://cws.correios.com.br/ajuda

@@ -1,0 +1,22 @@
+Bluetooth é uma especificação de rede sem fio de âmbito pessoal 
+(Wireless personal area networks – PANs) consideradas do tipo PAN ou mesmo WPAN.
+O Bluetooth provê uma maneira de conectar e trocar informações entre dispositivos 
+como telefones celulares, notebooks, computadores, impressoras, câmeras digitais e consoles de videogames 
+digitais através de uma frequência de rádio de curto alcance globalmente licenciada e segura. 
+As especificações do Bluetooth foram desenvolvidas e licenciadas pelo "Bluetooth Special Interest Group". 
+A tecnologia Bluetooth diferencia-se da tecnologia IrDA inclusive pelo tipo de radiação eletromagnética utilizada.
+
+Ponto a Ponto
+
+Classe 	Potência máxima permitida  Alcance (Aproximadamente)
+
+Classe 1 	100 mW (20 dBm) 	         até 100 metros
+Classe 2 	2.5 mW (4 dBm) 	         até 10 metros
+Classe 3 	1 mW (0 dBm)             	~ 1 metro 
+
+Versão 	       Taxa de transmissão
+Versão 1.2       	1 Mbit/s
+Versão 2.0 + EDR   	3 Mbit/s
+Versão 3.0 	     24 Mbit/s 	a.m.m. 	Mudança da Faixa de Transmissão para 802.11
+Versão 4.0 	     25 Mbit/s
+Versão 5.0 	     50 Mbit/s

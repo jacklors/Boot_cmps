@@ -1,0 +1,21 @@
+SMS 
+
+Custo Zero para operadoras trocar sms.
+
+Troca de bits de informação entre celuares e torres de transmissão e comunicação.
+
+MMS 
+
+Transmissão de mensagem de multimídia(áudio, vídeo) por meio
+de uma espécie de conexão de dados primitiva.
+
+
+1G(Analógico): 10Kbps
+2G(Digital): 92Kbps
+GPRS(Genaral Packet Radio Service): 32- 80Kbps dados e voz
+EDGE (Enhanced Data Rates for GSM Evolution): 128-236Kbps
+3G : 7 Mbps
+4G : 22,1 Mbps
+5G : 10 Gbps
+
+

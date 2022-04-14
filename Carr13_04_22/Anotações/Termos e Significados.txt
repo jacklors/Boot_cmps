@@ -1,0 +1,41 @@
+Download/Upload = Movimentação de dados.
+
+Navegador = Software para navegar na world wide web
+
+Banda larga = Tipo de conexão de rede
+
+Cache = Uma área de armazenamento temporária onde os dados 
+frequentemente acedidos são armazenados para acesso rápido.
+
+Crack = Maneira utilizada para piaratear algo.
+
+Email = Sigla de correio eletrônico.
+
+Host = Servidor.
+
+HTML =  Linguagem de "Marcação".
+
+Link = Ligação.
+
+URL = Endereço de uma ligação ou site etc.
+
+Login/logon = Acessar algo(Ex : Sistema ou Rede Social).
+
+Logout/logoff = Desconectando de algo.
+
+Pixel = Pequenos elementos (Quadradinhos) que formam imagens em loga escala. 
+
+Vírus = Todo software malicioso com inteção de roubar dados ou invadir sistemas.
+
+Keylogger = Software para roubar dados, ele faz leitura de tudo que é digitado no computador..
+
+Phishing = Enganar pessoas através de links ou boletos, utilizando engenharia social.
+
+Pop-up = Caixa Interativa de solicitações.
+
+Cookies = Pequenos registros de atividades deixado no computador como dados
+de informação sobre usuário. 
+
+Hacker = Indentificador de vunerabildade de sistemas.
+
+Firewall = Parede de proteção para impedir invasão ao computador.

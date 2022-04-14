@@ -1,0 +1,54 @@
+404 = Error de endereço inexistente.
+ 
+ALT = Texto alternativo(descrição), técnica de indexação de texto pelo google.
+
+API =  “Interface de Programação de Aplicações”. Elas são uma forma de integrar sistemas, 
+possibilitando benefícios como a segurança dos dados, facilidade no intercâmbio entre
+informações com diferentes linguagens de programação e a monetização de acessos.
+
+Ex: caixa de login do facbeook etc.
+
+Bootstrap = Framework mais usado do java script.
+
+Breakpoints = Ponto Base de Tela ou limites, Ponto de parada de um debug. 
+
+Controle de Versão = Versionamento de um aplicativo.
+
+Biblioteca/dll = Conjunto de ferramnetas disponiveis para se ter recursos apurados.
+
+Debug = Tentar achar um problema, testar ou encontrar erros.
+
+Deploy = Pacote de demosntração de um software, implantação é a fase do ciclo de vida de um software, no contexto de um Sistema de Informação, 
+que corresponde textualmente à passagem do software para a produção
+
+Design adapativo = Adapta a qualquer tela.
+
+Domínio = www.(google.com.br).
+
+DPI = Proporção de pontos na tela.
+
+Estrutura de dados = Array, pilha, number, char.
+
+Frameworks = Caixa de ferramenta
+
+FTP = Tipo de comunicação para troca de arquivos.
+
+Meta tags = Tags HTML que possui funções específicas.
+
+Método ágil = Técnica de desenvolvimento para desenvolver software mais rápido e melhor. 
+
+MVC = Arquitetura de software, separa em partes 
+(Model= estrtura de dados, view=front end, controller= logica)
+
+MVP = Minimo produto viável para fornecer para o cliente.
+
+SSL = Camada de segurança de um site.
+
+UI = Interface.
+
+UX = Como usuário lida com o programa.
+
+WYSIWYG = WYSIWYG é uma sigla em inglês formada pelas iniciais da expressão
+ “What You See Is What You Get” e quer dizer “O que você vê é o que você obtém”. 
+O termo é usado para classificar ferramentas de edição e desenvolvimento que permitem visualizar, 
+em tempo real, exatamente aquilo que será publicado ou impresso

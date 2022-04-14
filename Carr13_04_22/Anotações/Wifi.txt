@@ -1,0 +1,8 @@
+WEP:Chaves de 64bits e de 128bits
+
+WPA:Chave trocada periodicamente
+
+WPA2 (AES) (802.11i)
++segurança
++processamento
++lento

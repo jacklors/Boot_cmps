@@ -1,0 +1,53 @@
+Ambiente de desenvolvimento da empresa(conjunto de ferramentas)
+
+
+Pilhas de tecnologia
+
+Conjuntos de software necessário e suficientes para executar um aplicativo/programa.
+
+Linguagem de programação
+
+Ambiente e ferramentas de interação com o app/sw
+
+Capacidade e limitação de performace
+
+Pontos fortes e fracos do app/sw
+
+
+
+Front-end
+
+Parte da frente
+
+Site, software, aplicativo, web service
+
+Interface, UI, UX
+
+Lógica de programação
+
+HTML 
+
+CSS
+
+JS/PHP/
+
+JQuery/Ajax
+
+Frameworks Bootstrap 
+
+
+
+Back-end
+
+Parte de trás
+
+Servidores, bancos de dados
+
+meio de campo entre interface e bancos de dados, regras de negócios, validações
+
+Mysql, Oracle, protocolo de comunicação, PHP, Java, node.js(framework).
+
+
+Full stack
+
+Profissional que sabe trabalhar em todos as camadas das tecnologias de desenvolvimento/execução de um app sw.

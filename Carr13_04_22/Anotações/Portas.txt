@@ -1,0 +1,31 @@
+GMAIL
+
+
+
+
+Servidor de envio de e-mails (SMTP):
+smtp.gmail.com
+Porta SSL:465
+Requer SSL: Sim
+Porta TLS/STARTTLS: 587
+Requer TLS: Sim
+Requer Autenticação: Sim
+
+Servidor de recebimento de e-mails (IMAP):
+imap.gmail.com
+Porta:993
+Requer SSL: Sim
+
+Servidor de recebimento de e-mails (POP):
+pop.gmail.com
+Porta:995
+Requer SSL:Sim
+
+
+APACHE
+
+PORTA:443 ou 80
+
+MYSQL
+
+PORTA:3306

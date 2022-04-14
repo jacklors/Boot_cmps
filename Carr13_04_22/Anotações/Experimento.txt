@@ -1,0 +1,9 @@
+Use o terminal de comandos para descobrir o endereço de sites famosos No Windows:
+
+1. Aperte as teclas windows + R.
+
+2. Digite cmd e aperte ENTER.
+
+3. Na tela preta que aparecer digite:
+
+4. ping + (site).
