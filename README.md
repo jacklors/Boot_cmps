@@ -1,2 +1,2 @@
 # Boot_cmps
-Repositório Contendo Desafios e Ativdades Executadas
+Repositório Contendo Desafios e Atividades Executadas
