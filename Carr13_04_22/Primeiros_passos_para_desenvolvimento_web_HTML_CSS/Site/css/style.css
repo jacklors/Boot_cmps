@@ -1,0 +1,164 @@
+/* ESTILOS GLOBAIS
+-------------------------------------------------- */
+/* Padding abaixo do footer e texto mais suave no <body> */
+
+body {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  line-height: 24px;
+  }
+
+    /* CUSTOMIZA A BARRA COM A LOGO
+  -------------------------------------------------- */
+
+  #cbe{
+      background-color: black;
+      top: auto;
+      border: 80px;
+  }
+  .top, .img_logo, .text{
+      display: inline;
+      color: rgb(240, 175, 90);
+      vertical-align: middle;
+  }
+
+  
+  
+  /* CUSTOMIZA O CAROUSEL
+  -------------------------------------------------- */
+  
+  /* Classe base do carousel */
+  .carousel {
+    margin-bottom: 4rem;
+  }
+  
+  /* Já que usamos posicionamento de imagens, precisaremos fazer alguns ajustes na legenda */
+  .carousel-caption {
+    bottom: 3rem;
+    z-index: 10;
+  }
+  
+  /* Declaramos alturas, devido ao posicionamento do elemento img */
+  .carousel-item {
+    height: 32rem;
+    background-color: rgb(0, 0, 0);
+  }
+  .carousel-item > img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    height: 32rem;
+  }
+  
+  
+  /* CONTEÚDO DO MARKETING
+  -------------------------------------------------- */
+  
+  /* Alinha, centralmente, o texto dentro das três colunas abaixo do carousel */
+  .marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+  }
+  .marketing h2 {
+    font-weight: 400;
+  }
+  .marketing .col-lg-4 p {
+    margin-right: .75rem;
+    margin-left: .75rem;
+  }
+  
+  
+  /* Featrurezinhas
+  ------------------------- */
+  .margin {
+      margin: 3rem;
+
+
+  }
+
+.row{
+  width: 100%;
+
+
+}
+
+
+  
+/* Parceiros conteiner
+  ------------------------- */
+  .conteiner-fluid {
+      text-align: center;
+      
+
+}
+
+
+.parceiros {
+
+  background-color: rgb(59, 58, 57);
+  height: 533px;
+
+}
+
+.textparceiros {
+
+  color: aliceblue;
+  padding: 10px;
+
+
+
+}
+
+  .featurette-divider {
+    margin: 5rem 0; /* Espaça o elemento <hr> mais */
+  }
+  
+  /* Afina os cabeçalhos de marketing */
+  .featurette-heading {
+    font-weight: 100;
+    line-height: 1.2;
+    letter-spacing: -.15rem;
+  }
+
+  .texttop {
+
+    vertical-align: middle;
+
+
+  }
+
+  .bg-footer{
+    background-color: rgb(59, 58, 57);
+    color: white;
+  }
+  
+  footer {
+
+    background-color:rgb(59, 58, 57);
+    color: white;
+    text-align: center;
+    height: 100px;
+  }
+  /* CSS RESPONSIVE
+  -------------------------------------------------- */
+  
+  @media (min-width: 40em) {
+    /* Aumenta o tamanho do conteúdo do carousel */
+    .carousel-caption p {
+      margin-bottom: 1.25rem;
+      font-size: 1.25rem;
+      line-height: 1.4;
+    }
+  
+    .featurette-heading {
+      font-size: 50px;
+    }
+  }
+  
+  @media (min-width: 62em) {
+    .featurette-heading {
+      margin-top: 7rem;
+    }
+  }
+  
