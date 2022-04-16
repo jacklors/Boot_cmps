@@ -1,0 +1,46 @@
+Shift + Alt + Baixo = Clona a linha em que vc adicionando abaixo.
+
+
+criar regras de padrão css importante
+
+reset css 
+
+*(todo documento)
+
+
+declarando uma variavel css, facilita edição.
+
+dentro do elemento root.
+
+
+
+referência visual para codar
+
+
+flex box ajuda alinha elementos em tela
+o padrao vem em row
+
+espaçao entre os elementos = justify-content: space-between;
+
+
+classe wrapper servem para encaixar e isolar alguns elementos
+
+
+herda elementos em cascata, filiação.
+
+nome de classe e variavel sem acentuação.
+
+
+referenciar imagem = background: url('/img/img_capa.jpg');
+
+toda div nova tem display block quando não é filha diretamete da classe flex.
+
+
+flex box, caracteriscas elemento pai estudar 
+
+wrapper envelopar
+
+css container
+
+
+responsividade = adaptação do layout do site aos diversos tamanhos de tela.
