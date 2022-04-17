@@ -1,0 +1,25 @@
+ECMAScript Error  
+
+Erros que ocorrem em tempo de execução 
+
+composto de :
+
+- Mensagem 
+- Nome 
+- Linha 
+- Call Stack
+
+
+DOMExeception
+
+Erros relacionados ao Document Object Model (DOM)
+
+
+TRHOW E RETURN
+
+Diferença 
+
+
+Try ... catch
+
+finaly

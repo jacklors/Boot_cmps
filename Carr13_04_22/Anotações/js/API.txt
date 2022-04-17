@@ -1,0 +1,12 @@
+Uma API é uma forma de intermediar os resultdos do back-end
+com o oque é apresentado no front-end.
+
+Você consegue acesssá-la por meio de URLs.
+
+JSON : JavaScript Object Notation 
+
+É muito comum que APIs retornem seus dados
+no formato .json, portanto precisamos tratar
+esses dados quando os recebemos.
+
+fetch

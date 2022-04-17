@@ -1,0 +1,58 @@
+Paradigmas da Programação
+
+
+Imperativo x Decorativo 
+
+
+Imperativo = Foca em como você vai resolver os problemas.
+
+Orientação Objetos é um tipo de Progamação imperativo
+
+como vai ser chamada, a ordem etc.
+
+
+Os programas são "objetos" que possuem uma série
+de propriedades.
+
+Pilares:
+
+- Herança
+
+O objeto filho herda propriedades e métodos do
+objeto pai.
+
+
+- Polimorfismo
+
+Objetos podem herdar a mesma classe pai, mas
+se comportarem de forma diferente quando 
+invocamos seus métodos
+
+- Encapsulamento
+
+Cada classe(uma sitaxe feita para facilitar a escrita) 
+tem propiedades e métodos independentes
+do restante do código.
+
+O js não possui classse nativamente. Todas as classes são objetos
+e a herança se dá por protótipos. 
+
+
+- Abstração
+
+Generalizar
+Simplificar
+
+
+
+Decorativo = No que você vai fazer
+(Declaração funcional ou banco de dados sql)
+
+
+
+Protótipos
+
+
+São esqueleto de todos os objetos, todos os objetos vão herdar propiedades 
+métodos de um prototype. O Object.prototype está no topo desta cadeia.
+
