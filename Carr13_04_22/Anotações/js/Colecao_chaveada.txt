@@ -1,0 +1,39 @@
+Diferença entre set e uma array
+
+Sets são estrutura que armazenam apenas valores únicos.
+
+const mySet = new Set();
+
+
+Adicionar
+
+mySet.add(1);
+mySet.add(5);
+
+Consultar
+mySet.has(1);
+//true
+
+
+mySet.add(3);
+//false
+
+Deletar
+mySet.delete(5);
+
+
+
+Grande Diferença
+
+- Possui valores únicos;
+
+- Em vez da propiedade lenght, consulta-se o número de registros
+pela propiedade size;
+
+- Não possui os métodos map, filter, reduce etc.
+
+coleção chaveada pesquisae
+
+
+A iteração, no contexto da programação de computadores, é um processo em que um conjunto de instruções ou estruturas é repetido em uma sequência um número especificado de vezes ou até que uma condição seja atendida. 
+Quando o primeiro conjunto de instruções é executado novamente, é chamado de iteração.

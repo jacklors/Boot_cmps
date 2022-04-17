@@ -1,0 +1,45 @@
+Estrutura 
+
+- Uma coleção de arrays no formato
+[chave,valor];
+
+- Pode iterado por um loop for ...of
+
+
+Métodos 
+
+const myMap = new Map()
+
+Adicionar
+
+myMap.set("apple","fruit");
+//Map(1) {"apple" => "fruit"}
+
+Checar Valor
+
+myMap.get(apple);
+//"fruit"
+
+Deletar
+
+myMap.delete("apple")
+//true
+
+Retornando Valor
+
+myMap.get("apple")
+
+//undefined
+
+
+- Maps podem ter chaves de qualquer tipo;
+objeto tem apenas em string.
+
+- Maps possuem a propiedade lenght;
+objeto você tem que iterar pelas propiedades para saber a quantidade.
+
+- Maps são mais fáceis de iterar;
+
+- Utilizado quando o valor das chaves é desconhecido;
+
+- Os valores tem o mesmo tipo.
