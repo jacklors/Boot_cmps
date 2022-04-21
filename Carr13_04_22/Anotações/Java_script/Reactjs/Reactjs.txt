@@ -1,0 +1,20 @@
+React js é uma biblioteca javaScript para criar interface
+de usuário, não é um framework.
+
+React = web
+
+React Nativo = mobile
+
++ Controle da Aplicação
+
+linguagem declarativa (Exibição ou não )
+
+
+Pode ser utilizado em qualquer lugar
+
+
+JSX 
+
+
+
+função 

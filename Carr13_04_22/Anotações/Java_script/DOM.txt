@@ -1,0 +1,113 @@
+B.O.M (WINDOW)
+
+Browser Object Model tudo que está dentro do objeto window.
+
+
+
+
+
+D.O.M (HTML)
+
+O Document Object Model é um padrão de como acessar
+e modificar os elementos HTML de uma página.
+
+
+
+Manipulando D.O.M
+
+tags = Representação de uma parte do código
+Ex: <body>
+
+id = Identificação de uma tag(Único).
+
+classe = Identificadores de uma tag(Não única).
+
+
+Métodos 
+
+Selecionando os elementos de uma página pelo js
+
+document.getElementById('titulo');
+
+//<h1> id "titulo"> Minha página</h1>
+
+document.getElementsByTagName(vai retorna um array)
+
+document.querySelectorAll(tambem vai retornar um array)
+
+
+Adicionar e deletar
+
+document.createElemente() = Cria
+document.removeChild() = Remove
+document.appendChild() = Adiciona
+document.replaceChild() = Substitui
+
+
+Manipulando Estilos HTML
+
+Element.classList
+
+Acionando as classes pelo java script
+
+
+Element.classList.toggle("dark-mode")
+Adiciona a classe "dark-mode" caso ela não faça parte da lista
+e remove ela caso faça.
+
+inversor 
+
+se tiver apaga 
+
+se não tiver inclui
+
+
+Acessando diretamente o CSS de um elemento
+
+document.getElementsByTagName("p").style.color = "blue";
+
+
+
+Eventos (Qualquer tipo de ação que um usuário faça na página)
+Interativiade
+
+
+Eventos do mouse
+
+mouseover,mouseout
+
+Eventos de click
+
+click,dbclick(duplos)
+
+
+Eventos de atualização
+
+change,load
+
+
+Event listener
+
+Acionando diretamente no javascript, cria um evento que vai seer
+acionado no momento em que o usuário realizar uma determinada
+ação.
+
+const botao = document.getElementById("meuBotao");
+
+botao.addEventListener("click", outraFuncao); 
+Escuta os Eventos
+
+
+Dentro do HTML 
+
+<h1 onclick="mudaTexto(this)">Clique Aqui</h1>
+
+
+<script>
+
+function mudaTexto(id) {
+
+id.innerHTML = "Mudei!";
+
+<script>
+
