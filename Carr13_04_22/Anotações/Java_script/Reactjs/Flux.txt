@@ -1,0 +1,32 @@
+Flux
+
+É um padrão de projeto para tráfego de dados de maneira unidirecional
+
+
+Action: é como um telégrafo: ele formata a mensagem a ser enviada.
+
+Despatcher: é como um telefonista; ele sabe todos os callbacks
+para diferentes Stores.
+
+Store: é como um gerente super controlador; Ele guarda a informação
+e todas as alterações têm que ser feitas por ele mesmo, mais ninguém.
+
+View: é como um gerente intermediário (middleware) que recebe as notificações
+da store e passa os dados para as visões abaixo dela.
+
+
+Diversas implementações 
+
+- Redux (mais popular)
+
+- Reflux
+
+- Mobx
+
+- Vuex(baseado em Redux e Elm)
+
+-NgRx/store (baseada em Redux e RxJS)
+
+
+Servem para comunicação entre componentes 
+Centralizam a informação

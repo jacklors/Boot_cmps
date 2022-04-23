@@ -1,0 +1,62 @@
+Inline 
+
+
+O CSS inline é usado para dar estilo a um elemento HTML específico. 
+Para este estilo de CSS< você somente vai precisar adicionar o atributo style para cada tag HTML,
+sem usar os seletores.
+
+
+Vantagens 
+
+- Maneira mais prática e direta.
+- Ajustes rápidos.
+- Teste de Estilo.
+
+Contra 
+
+- Dificil mnutenção
+
+
+
+Classes/Type
+
+Incorporado ao Documento/Embebido 
+Este método nada mais é do que usar o CSS dentro da mesma página onde contém o HTML, 
+existem muitos sites e sistemas que aderem a esta tecnologia, pois dentro do cabeçalho, 
+é usado as Tags <style type=”text/css”></style> ou  apenas <style></style>, 
+dentro das mesmas é usado os códigos CSS.
+
+Vantagens 
+
+- Em JSX, define-se classes pelo atributo className.
+- Maneira mais prática e direta.
+
+
+Contra
+
+- Difícil manutenção
+- Pouca flexibilidade
+- Conflitos com nomes
+
+
+
+CSS Externo
+
+Com o CSS externo, você vai linkar as páginas da internet com um arquivo .css externo,
+que você pode criar usando qualquer editor de texto no seu dispositivo (ex.: Notepad++).
+
+Este tipo de CSS é um método mais eficiente, especialmente se você está 
+estilizando um site grande. Ao editar um arquivo .css, você pode modificar um site inteiro de uma só vez. 
+
+Vantagens 
+
+- Facilidade para remover CSS
+- Estilos dinâmicos 
+- Perfomace
+- Injeção automática de prefixos vendor
+
+Contra
+
+
+
+

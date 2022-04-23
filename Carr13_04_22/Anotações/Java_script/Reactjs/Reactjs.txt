@@ -18,3 +18,45 @@ JSX
 
 
 função 
+
+Redenrização
+
+React "pensa" em como a interface deve estar a cada momento
+ao invés de alterá-la com o tempo, o que faz ter ganho de 
+performance e evita uma série de erros.
+
+
+WEB PACK
+
+É um module bundler (um empacotador de módulos pra aplicações JS)
+
+Gerar bundler que será utilizada no HTML, em ES5.
+
+Entry - Utilizando grafo, o Webpack precisa de um ponto de entrada
+para buscar todos os módulos e dependências.
+
+Output - É para determinar quais são os bundlers que o Webpack irá 
+emitir.
+
+Loaders - É para permitir que o Webpack gerencie arquivos não são 
+javascript.
+
+Plugins - Plugins podem ser utilizados para otimização de pacotes,
+minificação,  injeção de scripts e muito mais.
+
+Mode - Utilizados para abordagem de configuração zero. É possivel
+configurar módulos como production, development ou none.
+
+Production trás otimizações internas.
+
+Development - É executado com três plugins:
+UglifyPlugin, ModuleConcatenationPlugin e NoEmitOnErrorsPlugin.
+
+Criar arquivo webpack.config.js
+
+npm i -D webpack webpack-cli
+
+"build":"webpack --mode production"
+
+npm i @babel/core babel-loader @babel/preset-env
+@babel/preset-react --save-dev
