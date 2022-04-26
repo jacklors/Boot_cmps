@@ -1,0 +1,42 @@
+Hooks (Ganchos)
+
+Hook é uma função, que literalmente se engancha no componente, todas vez que o componente receber
+uma atualização (cliks) essa função será executada também.
+
+Não são obrigatórios
+
+Otimos para facilitar
+
+
+
+Componente é uma função que retorna um bloco de html e CSS embutido.
+
+
+
+Criando o projeto
+
+
+atalho para criar um template para um projeto inicial
+
+
+>npx create-react-app (nome do projeto)
+
+>npx create-react-app aula_hooks
+
+
+
+Testando 
+
+npm start
+
+Pode ser que haja algum erro devido algum nome de pasta com algum caractere ou espaço desnecessário, so mudar e executar processo de criação de novo.
+
+
+
+JSX é um arquivo JavaScript com elementos HTML.
+
+
+#Boas Práticas
+
+
+Iniciar Sempre Os Components Com Letra Maiúscula.
